@@ -4,7 +4,7 @@ ESP
 Aplicacion de recetas con funcionalidad de subir recetas personalizadas
 Realizada con Sass & Vanilla Javascript, este proyecto trae y envía datos desde a API y tiene implementada una arquitectura MVC.
 
-Online en --->>> https://forkify-alfredoguacaran.netlify.app
+Online en --->>> <a href="https://forkify-alfredoguacaran.netlify.app" target="_blank">https://forkify-alfredoguacaran.netlify.app</a>
 
 ENG
 Recipe application with custom recipe upload functionality.
